@@ -31,6 +31,51 @@ Functionally, Phase 1 answers:
 
 ---
 
+### 2.5 Phase X — Representation-Level Specialization of Phase 1
+
+A proposed specialization of Phase 1 is **Phase X**, which operates not on solutions within an existing representational framework, but on the representational framework itself.
+
+Rather than generating candidate answers to a problem, Phase X generates candidate ways of *formulating the problem*.
+
+In this sense, Phase X is not proposed as an independent third phase, but as a **higher-order specialization of Phase 1**.
+
+Where ordinary Phase 1 explores:
+
+> “What possible solution exists within the current representation?”
+
+Phase X explores:
+
+> “Is the current representation itself insufficient?”
+
+Characteristics:
+
+* Triggered by persistent representational friction
+* Searches over representations rather than solutions
+* Often motivated by compression failure or structural mismatch
+* Rare, intermittent, and non-continuous
+* May redefine the search space available to ordinary Phase 1
+
+Examples may include:
+
+* The invention of new mathematical formalisms
+* New programming abstractions
+* New problem representations that substantially reduce solution complexity
+
+Importantly, Phase X is hypothesized to emerge only under sustained failure, inefficiency, or dissatisfaction within existing representational constraints.
+
+A simplified intuition may be expressed as:
+
+> Persistent mismatch between problem complexity and representational capability increases the probability of Phase X activation.
+
+Under this interpretation, intelligence remains fundamentally a **Two-Phase Model**:
+
+* Phase 1 — probabilistic proposal generation
+* Phase 2 — constraint-based validation
+
+while Phase X represents a **specialized regime of Phase 1** concerned with representational redesign rather than solution generation.
+
+---
+
 ## 3. Phase 2 — Constraint-Based Validation
 
 Phase 2 performs structured evaluation of candidate outputs from Phase 1.
